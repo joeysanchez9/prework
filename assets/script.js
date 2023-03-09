@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var topic = "HTML";
 
 if (topic === 'HTML') {
@@ -11,3 +12,7 @@ if (topic === 'HTML') {
 } else {
   console.log('Please try again!');
 }
+=======
+var topics = "HTML, CSS, Git, JavaScript";
+console.log(topics);
+>>>>>>> eaec521b1b0a40b5d3228882c2655b903e99cf64
